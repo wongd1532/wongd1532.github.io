@@ -180,6 +180,11 @@ section h2 {
     font-size: 3em;
 }
 
+section.welcome {
+    color: #{{ site.color.secondary }};
+    background: #fff;
+}
+
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
