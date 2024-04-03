@@ -1,0 +1,25 @@
+---
+layout: default
+modal-id: 1
+date: 2024-1-31
+img: ../project-tiles/timebox-tile.png
+alt: timebox-tile
+category: projects
+
+project-date: May 2023 to Current
+skills: WebDev, FullStack, Database Design, React, Django
+
+description: "
+TimeBox is a new concept calendar and time-manager web app in development. The platform is designed with 
+command line navigation, flexible calendar functionality, and shared user experience in mind.
+"
+involvement: "
+This was my first-ever project experience! I was onboarded onto the development team of 5 developers at the 
+time and learned so much from my mentor, Bryan, a University of Waterloo Math alumni and volleyball enthusiast. 
+Bryan taught me fundamental development skills like version control (git), web development, and relational database 
+design. In the time that I worked on this project, I mainly contributed to developing the frontend features, 
+but also contributed to expanding our Database Entity-Relationship-Diagram and a few backend tickets.
+"
+screenshot: screenshots/timebox-screenshot.png
+
+---

@@ -180,6 +180,16 @@ section h2 {
     font-size: 3em;
 }
 
+section.welcome {
+    color: #{{ site.color.secondary }};
+    background: #fff;
+}
+
+section.projects {
+    color: #fff;
+    background: #{{ site.color.primary }};
+}
+
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
