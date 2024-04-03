@@ -6,7 +6,7 @@ img: ../co-op-tiles/sap-tile.png
 alt: sap-tile
 category: co-ops
 
-job-title: Technical Writer at SAP
+job-title: Technical Writer
 location: Hybrid | Waterloo, ON
 co-op-date: May 2022 to August 2022
 skills: ---
