@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 6
+date: 2024-1-1
+img: ../co-op-tiles/watspeed-tile.png
+alt: watspeed-tile
+category: co-ops
+
+job-title: Junior Learning Technologies Analyst at WatSPEED
+location: In-person | Waterloo, ON
+co-op-date: January 2024 to April 2024
+skills: Python, SQL, PowerShell, Scripting, Web-Scraping, IT Support
+
+experience: "
+
+"
+---
