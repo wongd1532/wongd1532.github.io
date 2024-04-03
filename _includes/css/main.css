@@ -185,6 +185,11 @@ section.welcome {
     background: #fff;
 }
 
+section.projects {
+    color: #fff;
+    background: #{{ site.color.primary }};
+}
+
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
