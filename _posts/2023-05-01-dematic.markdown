@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 5
+date: 2023-5-1
+img: ../co-op-tiles/dematic-tile.png
+alt: dematic-tile
+category: co-ops
+
+job-title: Technical Writer at Dematic
+location: Hybrid | Waterloo, ON
+co-op-date: May 2023 to August 2023
+skills: ---
+
+experience: "
+
+"
+---
