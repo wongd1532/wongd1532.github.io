@@ -6,7 +6,7 @@ img: ../project-tiles/timebox-tile.png
 alt: timebox-tile
 category: projects
 
-project-date: May 2023 - Current
+project-date: May 2023 to Current
 skills: WebDev, FullStack, Database Design, React, Django
 
 description: "

@@ -6,7 +6,7 @@ img: ../project-tiles/rotation-vision-tile.png
 alt: rotation-vision-tile
 category: projects
 
-project-date: March 2024 - Current
+project-date: March 2024 to Current
 skills: WebDev, Frontend, UI Design, React, Node
 
 description: "
