@@ -6,12 +6,27 @@ img: ../co-op-tiles/dematic-tile.png
 alt: dematic-tile
 category: co-ops
 
-job-title: Technical Writer at Dematic
+job-title: Technical Writer
 location: Hybrid | Waterloo, ON
 co-op-date: May 2023 to August 2023
-skills: ---
+skills: Darwin Information Typing Architecture (DITA), Technical Writing, Oxygen XML Editor
 
-experience: "
-
+job-responsibilities: "
+I was tasked with learning, owning, and managing the product bulletin processes with minimal supervision. 
+I also authored and edited mechatronics documentation for warehouse automation products using Oxygen XML Editor 
+adhering to Dematic's style guide.
+"
+takeaway: "
+I really enjoyed technical writing, and considering it as a future career option, I jumped 
+at the opportunity to further my technical writing abilities at Dematic! Coming into my 2nd 
+co-op, I made it a goal to myself to be more self-dependent and leave a bigger impact at the 
+company. Having previous technical writing experience and using similar technologies, I 
+onboarded onto the technical writing team very quickly and was very productive. Halfway through 
+the term, the technical writer on our team responsible for product bulletins made an internal 
+move and offloaded the responsibility onto my manager. I took the initiative to learn, document, 
+and significantly improve the product bulletin process to increase process visibility to stakeholders, 
+eliminating bottlenecks, and increasing bulletin publishing speed and volume. I had minimal 
+supervision from my manager and by the end of the term, I was very proud for demonstrating 
+my ability to be more self-dependent while leaving a long-lasting impact at Dematic. 
 "
 ---

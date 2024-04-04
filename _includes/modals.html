@@ -52,6 +52,18 @@
                 {{ post.experience }}
               </p>
             {% endif %}
+            {% if post.job-responsibilities %}
+              <p>
+                <strong>Job Responsibilities:</strong>
+                {{ post.job-responsibilities }}
+              </p>
+            {% endif %}
+            {% if post.takeaway %}
+              <p>
+                <strong>Takeaway:</strong>
+                {{ post.takeaway }}
+              </p>
+            {% endif %}
             {% if post.screenshot %}
               <img class="img-responsive" src="img/{{ post.screenshot }}" alt="project-screenshot" />
             {% endif %}

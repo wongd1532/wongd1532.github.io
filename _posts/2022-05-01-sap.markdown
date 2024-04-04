@@ -6,12 +6,22 @@ img: ../co-op-tiles/sap-tile.png
 alt: sap-tile
 category: co-ops
 
-job-title: Technical Writer at SAP
+job-title: Technical Writer
 location: Hybrid | Waterloo, ON
 co-op-date: May 2022 to August 2022
-skills: ---
+skills: Darwin Information Typing Architecture (DITA), Technical Writing, Oxygen XML Editor
 
-experience: "
-
+job-responsibilities: "
+Authored and edited user-oriented documentation for database management system products and technologies.
+"
+takeaway: "
+SAP was my very first co-op and my first time working a corporate job! Since COVID was still at large, I 
+worked from home for most of this term, but went into the office about once a week in the second half of the 
+term. When I first went into this co-op, I hadn't declared a major yet and I didn't really know what I wanted 
+to do career-wise. I was lucky to be hand-held by very kind mentors who taught me all about technical writing! 
+My largest contribution was improving the uniformity and consistency of What's New bulletins on our 
+customer-facing product Help Portal. I learned a lot about myself this term. While I genuinely enjoyed technical 
+writing, I felt too cushioned at SAP. I yearned to grow independently and take on larger responsibilities 
+in my future co-ops. 
 "
 ---
