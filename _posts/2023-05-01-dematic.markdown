@@ -12,8 +12,8 @@ co-op-date: May 2023 to August 2023
 skills: Darwin Information Typing Architecture (DITA), Technical Writing, Oxygen XML Editor
 
 job-responsibilities: "
-I was tasked with learning, owning, and managing the product bulletin processes with minimal supervision. 
-I also authored and edited mechatronics documentation for warehouse automation products using Oxygen XML Editor 
+Tasked with learning, owning, and managing the product bulletin processes with minimal supervision. 
+Also authored and edited mechatronics documentation for warehouse automation products using Oxygen XML Editor 
 adhering to Dematic's style guide.
 "
 takeaway: "
