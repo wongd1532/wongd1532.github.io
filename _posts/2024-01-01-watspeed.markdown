@@ -9,9 +9,31 @@ category: co-ops
 job-title: Junior Learning Technologies Analyst
 location: In-person | Waterloo, ON
 co-op-date: January 2024 to April 2024
-skills: Python, SQL, PowerShell, Scripting, Web-Scraping, IT Support
+skills: Scripting, Web-Scraping, Report-Generation, SQL, Python, PowerShell, IT Support
 
-experience: "
-
+job-responsibilities: "
+Responsible for developing internal automation tools (scripts) to improve process efficiency 
+and enhance reliability. The scripts were packaged as applications for ease-of-use by 
+non-technical users. Also tasked with learning WatSPEED's student information database, then 
+writing queries to generate reports and automate report distribution. Additionally, provided 
+customer and internal IT support.
+"
+takeaway: "
+WatSPEED is a very new company (3 years old) which has branched off of an existing and similar 
+University of Waterloo department, Centre for Extended Learning (CEL). As such, WatSPEED is 
+still very early in its life cycle and I was warned during the co-op interview for this position 
+that it was difficult to pinpoint the many responsibilities of the Junior Learning Technologies 
+Analyst position. I was thrilled by the idea of being responsible for working on a variety of 
+different projects and acquiring different skills! Since there's only been a few co-ops in this 
+role before me, I initiated and setup a GitLab space for future co-ops to use version control in 
+their projects! I ended up learning and using many scripting skills for my projects such as web 
+scraping with Selenium, application packaging with PyInstaller, and scripting email distribution 
+with the University of Waterloo's Simple Mail Transfer Protocol (SMTP). I also learned SQL to 
+retrieve data to generate reports for the Marketing, Client Success, Finance, and Systems & 
+Operations teams in WatSPEED. I think WatSPEED was my favourite co-op experience so far because 
+I had the freedom to tackle problems and learn new skills as I saw fit. While I appreciated the 
+freedom, I also wished that I had a mentor to guide me and point out the errors and inefficiencies 
+in my code. For my next co-op, I'm looking for a position where I can receive constructive criticism 
+and learn lots from my mentors!
 "
 ---
