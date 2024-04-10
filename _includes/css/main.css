@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #C58AF9;
 }
 
 h1,
@@ -78,6 +78,13 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
+}
+
+.gif-centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 header {
